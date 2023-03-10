@@ -1,4 +1,4 @@
-Risix - Module based Linux distribtion.
+Risix - Module based Linux distribution using only rust. 
 
 Architecture
 
