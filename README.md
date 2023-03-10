@@ -1,10 +1,4 @@
-Risix
-
-Module based Linux distribtion.
-
-
-
-
+Risix - Module based Linux distribtion.
 
 Architecture
 
